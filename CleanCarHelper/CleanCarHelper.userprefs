@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{2FD7A559-5A61-44E1-88E0-ECBEE169A063}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 4.4.1 (4747417)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CleanCarHelper.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54E70120-4DC7-4F31-A38E-7ABB3BC121B0" />
+</Properties>
