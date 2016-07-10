@@ -1,7 +1,33 @@
 ﻿<Properties StartupConfiguration="{2FD7A559-5A61-44E1-88E0-ECBEE169A063}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Views/MainView.cs">
+    <Files>
+      <File FileName="CleanCarHelper/ViewModels/MianViewModel.cs" Line="4" Column="30" />
+      <File FileName="CleanCarHelper/App.cs" Line="6" Column="18" />
+      <File FileName="iOS/Setup.cs" Line="18" Column="1" />
+      <File FileName="iOS/AppDelegate.cs" Line="33" Column="1" />
+      <File FileName="iOS/Views/MainView.cs" Line="5" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CleanCarHelper" expanded="True">
+            <Node name="CleanCarHelper.Core" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="CleanCarHelper.iOS" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MainView.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" ActiveRuntime="Mono 4.4.1 (4747417)" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.CleanCarHelper.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.54E70120-4DC7-4F31-A38E-7ABB3BC121B0" />
 </Properties>

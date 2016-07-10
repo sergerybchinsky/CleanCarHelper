@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCarHelper.iOS", "iOS\CleanCarHelper.iOS.csproj", "{2FD7A559-5A61-44E1-88E0-ECBEE169A063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCarHelper", "CleanCarHelper\CleanCarHelper.csproj", "{C83CFFB0-3622-4BBE-8798-D7ACF79C3EB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCarHelper.Core", "CleanCarHelper\CleanCarHelper.Core.csproj", "{C83CFFB0-3622-4BBE-8798-D7ACF79C3EB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
